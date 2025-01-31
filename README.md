@@ -22,7 +22,7 @@ Este é um simples jogo da cobrinha desenvolvido em Java utilizando a biblioteca
 │   ├── GamePanel.java  # Lógica e renderização do jogo
 │   ├── Snake.java      # Representa a cobra
 │   ├── Food.java       # Representa a comida
-│   └── Utils.java      # Funções auxiliares (se houver)
+│   └── Utils.java      # Funções auxiliares
 └── README.md           # Documentação do projeto
 ```
 
@@ -31,7 +31,7 @@ Este é um simples jogo da cobrinha desenvolvido em Java utilizando a biblioteca
 1. Certifique-se de ter o **Java JDK** instalado (versão 8 ou superior).
 2. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/snake-game-java.git
+   git clone https://github.com/yamferreira/snake-game-java.git
    ```
 3. Navegue até o diretório do projeto:
    ```sh
